@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manage_security_risk/module_2/4. OWASP.md",
+                "file": "manage_security_risk/module_3/More about cybersecurity tools.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manage_security_risk/module_2/4. OWASP.md",
+                "file": "manage_security_risk/module_3/More about cybersecurity tools.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manage_security_risk/module_2/4. OWASP.md",
+                "file": "manage_security_risk/module_3/More about cybersecurity tools.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manage_security_risk/module_2/4. OWASP.md"
+                "file": "manage_security_risk/module_3/More about cybersecurity tools.md"
               }
             }
           }
@@ -148,9 +148,12 @@
   },
   "active": "a11f8f006bed4a92",
   "lastOpenFiles": [
+    "manage_security_risk/module_3/Logs and SIEM tools.md",
+    "manage_security_risk/module_3/More about cybersecurity tools.md",
+    "manage_security_risk/module_2/4. OWASP.md",
+    "manage_security_risk/module_3",
     "Captura de pantalla 2024-03-12 a la(s) 12.34.19 p.m..png",
     "manage_security_risk/module_2/3. NIST frameworks.md",
-    "manage_security_risk/module_2/4. OWASP.md",
     "Captura de pantalla 2024-03-11 a la(s) 9.25.17 p.m..png",
     "manage_security_risk/module_2/2.  Explore the CIA triad.md",
     "Captura de pantalla 2024-03-11 a la(s) 9.20.49 p.m..png",
