@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "5a727405034b1436",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5ef7d20a3d5b2d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a11f8f006bed4a92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "manage_security_risk/1. Frameworks and controls.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aac8206c6d1fde0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b1085abcc41c1ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0641121013db249f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "33d21fc836508ac1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "10c58e04124d0520",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35db4790f0c28006",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0c876e06e3667bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91f33e3f7c4e9195",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "manage_security_risk/1. Frameworks and controls.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa940c670fa4d39f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "manage_security_risk/1. Frameworks and controls.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fe46de9f4dbacf77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e38e6b3f064ee673",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "manage_security_risk/1. Frameworks and controls.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a11f8f006bed4a92",
+  "lastOpenFiles": [
+    "manage_security_risk/1. Frameworks and controls.md",
+    "manage_security_risk"
+  ]
+}
