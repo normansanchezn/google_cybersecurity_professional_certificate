@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "manage_security_risk/module_4/Playbooks, SIEM tools, and SOAR tools.md",
+                "file": "Connect and Protect/Module 1/6 - Components of network layer communication.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "manage_security_risk/module_4/Playbooks, SIEM tools, and SOAR tools.md",
+                "file": "Connect and Protect/Module 1/6 - Components of network layer communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "manage_security_risk/module_4/Playbooks, SIEM tools, and SOAR tools.md",
+                "file": "Connect and Protect/Module 1/6 - Components of network layer communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "manage_security_risk/module_4/Playbooks, SIEM tools, and SOAR tools.md"
+                "file": "Connect and Protect/Module 1/6 - Components of network layer communication.md"
               }
             }
           }
@@ -148,21 +148,37 @@
   },
   "active": "a11f8f006bed4a92",
   "lastOpenFiles": [
-    "manage_security_risk/module_4/Playbooks.md",
+    "Screenshot 2024-04-01 at 2.06.26 p.m..png",
+    "Screenshot 2024-04-01 at 2.06.06 p.m..png",
+    "Screenshot 2024-04-01 at 1.20.21 p.m..png",
+    "Connect and Protect/Module 1/5 - The OSI model.md",
+    "Connect and Protect/Module 1/6 - Components of network layer communication.md",
+    "Screenshot 2024-04-01 at 1.08.21 p.m..png",
+    "Connect and Protect/Module 1/4 - Learn more about the TCP IP model.md",
+    "Screenshot 2024-04-01 at 1.07.22 p.m..png",
+    "Screenshot 2024-04-01 at 1.04.44 p.m..png",
+    "Connect and Protect/Module 1/3 - Cloud computing and software-defined networks.md",
+    "Screenshot 2024-04-01 at 12.46.42 p.m..png",
+    "Connect and Protect/Module 1/1 - What you'll learn.md",
+    "Connect and Protect/Module 1/2 - Network components, devices, and diagrams.md",
+    "Screenshot 2024-04-01 at 12.41.24 p.m..png",
+    "Screenshot 2024-04-01 at 12.40.59 p.m..png",
+    "Screenshot 2024-04-01 at 12.40.36 p.m..png",
+    "Screenshot 2024-04-01 at 12.38.47 p.m..png",
+    "manage_security_risk/module_2/1. Frameworks and controls.md",
+    "Connect and Protect/Module 1",
+    "Connect and Protect/Untitled.md",
+    "Connect and Protect",
     "manage_security_risk/module_4/Playbooks, SIEM tools, and SOAR tools.md",
+    "manage_security_risk/module_4/Playbooks.md",
     "manage_security_risk/module_3/Use SIEM tools to protect organizations.md",
     "manage_security_risk/module_4",
     "manage_security_risk/module_3/More about cybersecurity tools.md",
     "manage_security_risk/module_3/Logs and SIEM tools.md",
     "manage_security_risk/module_2/4. OWASP.md",
     "manage_security_risk/module_3",
-    "Captura de pantalla 2024-03-12 a la(s) 12.34.19 p.m..png",
     "manage_security_risk/module_2/3. NIST frameworks.md",
-    "Captura de pantalla 2024-03-11 a la(s) 9.25.17 p.m..png",
     "manage_security_risk/module_2/2.  Explore the CIA triad.md",
-    "Captura de pantalla 2024-03-11 a la(s) 9.20.49 p.m..png",
-    "Captura de pantalla 2024-03-11 a la(s) 9.15.53 p.m..png",
-    "manage_security_risk/module_2/1. Frameworks and controls.md",
     "manage_security_risk/module_2",
     "manage_security_risk"
   ]
