@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connect and Protect/Module 1/6 - Components of network layer communication.md",
+                "file": "Connect and Protect/Module 2/Additional network protocols.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connect and Protect/Module 1/6 - Components of network layer communication.md",
+                "file": "Connect and Protect/Module 2/Additional network protocols.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Connect and Protect/Module 1/6 - Components of network layer communication.md",
+                "file": "Connect and Protect/Module 2/Additional network protocols.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Connect and Protect/Module 1/6 - Components of network layer communication.md"
+                "file": "Connect and Protect/Module 2/Additional network protocols.md"
               }
             }
           }
@@ -148,11 +148,15 @@
   },
   "active": "a11f8f006bed4a92",
   "lastOpenFiles": [
+    "Screenshot 2024-04-02 at 9.21.41 p.m..png",
+    "Connect and Protect/Module 2/Common network protocols.md",
+    "Connect and Protect/Module 2/Additional network protocols.md",
+    "Connect and Protect/Module 1/6 - Components of network layer communication.md",
+    "Connect and Protect/Module 2",
     "Screenshot 2024-04-01 at 2.06.26 p.m..png",
     "Screenshot 2024-04-01 at 2.06.06 p.m..png",
     "Screenshot 2024-04-01 at 1.20.21 p.m..png",
     "Connect and Protect/Module 1/5 - The OSI model.md",
-    "Connect and Protect/Module 1/6 - Components of network layer communication.md",
     "Screenshot 2024-04-01 at 1.08.21 p.m..png",
     "Connect and Protect/Module 1/4 - Learn more about the TCP IP model.md",
     "Screenshot 2024-04-01 at 1.07.22 p.m..png",
@@ -164,7 +168,6 @@
     "Screenshot 2024-04-01 at 12.41.24 p.m..png",
     "Screenshot 2024-04-01 at 12.40.59 p.m..png",
     "Screenshot 2024-04-01 at 12.40.36 p.m..png",
-    "Screenshot 2024-04-01 at 12.38.47 p.m..png",
     "manage_security_risk/module_2/1. Frameworks and controls.md",
     "Connect and Protect/Module 1",
     "Connect and Protect/Untitled.md",
