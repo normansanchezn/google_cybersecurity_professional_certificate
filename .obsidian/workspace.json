@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connect and Protect/Module 2/Subnetting and CIDR.md",
+                "file": "Connect and Protect/Module 2/Virtual Networks and Privacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connect and Protect/Module 2/Subnetting and CIDR.md",
+                "file": "Connect and Protect/Module 2/Virtual Networks and Privacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Connect and Protect/Module 2/Subnetting and CIDR.md",
+                "file": "Connect and Protect/Module 2/Virtual Networks and Privacy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Connect and Protect/Module 2/Subnetting and CIDR.md"
+                "file": "Connect and Protect/Module 2/Virtual Networks and Privacy.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "a11f8f006bed4a92",
   "lastOpenFiles": [
+    "Connect and Protect/Module 2/Subnetting and CIDR.md",
+    "Connect and Protect/Module 2/Virtual Networks and Privacy.md",
     "Screenshot 2024-04-03 at 2.06.55 p.m..png",
     "Connect and Protect/Module 2/The evolution of wireless security protocols.md",
-    "Connect and Protect/Module 2/Subnetting and CIDR.md",
     "Screenshot 2024-04-03 at 12.42.21 p.m..png",
     "Connect and Protect/Module 2/Additional network protocols.md",
     "Screenshot 2024-04-02 at 9.21.41 p.m..png",
@@ -169,7 +170,6 @@
     "Screenshot 2024-04-01 at 12.46.42 p.m..png",
     "Connect and Protect/Module 1/1 - What you'll learn.md",
     "Connect and Protect/Module 1/2 - Network components, devices, and diagrams.md",
-    "Screenshot 2024-04-01 at 12.41.24 p.m..png",
     "manage_security_risk/module_2/1. Frameworks and controls.md",
     "Connect and Protect/Module 1",
     "Connect and Protect/Untitled.md",
