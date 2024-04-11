@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connect and Protect/Module 2/How intrusions compromise your system.md",
+                "file": "Connect and Protect/Module 2/Read tcpdump logs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connect and Protect/Module 2/How intrusions compromise your system.md",
+                "file": "Connect and Protect/Module 2/Read tcpdump logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Connect and Protect/Module 2/How intrusions compromise your system.md",
+                "file": "Connect and Protect/Module 2/Read tcpdump logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Connect and Protect/Module 2/How intrusions compromise your system.md"
+                "file": "Connect and Protect/Module 2/Read tcpdump logs.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a11f8f006bed4a92",
   "lastOpenFiles": [
-    "Connect and Protect/Module 2/VPN protocols Wireguard and IPSec.md",
     "Connect and Protect/Module 2/How intrusions compromise your system.md",
+    "Connect and Protect/Module 2/Read tcpdump logs.md",
+    "Connect and Protect/Module 2/VPN protocols Wireguard and IPSec.md",
     "Connect and Protect/Module 2/Virtual Networks and Privacy.md",
     "Untitled.md",
     "Connect and Protect/Module 2/Subnetting and CIDR.md",
