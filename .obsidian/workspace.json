@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connect and Protect/Module 3/Overview of interception tactics.md",
+                "file": "Connect and Protect/Module 3/Brute force attacks and OS hardening.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Connect and Protect/Module 3/Overview of interception tactics.md",
+                "file": "Connect and Protect/Module 3/Brute force attacks and OS hardening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Connect and Protect/Module 3/Overview of interception tactics.md",
+                "file": "Connect and Protect/Module 3/Brute force attacks and OS hardening.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Connect and Protect/Module 3/Overview of interception tactics.md"
+                "file": "Connect and Protect/Module 3/Brute force attacks and OS hardening.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a11f8f006bed4a92",
   "lastOpenFiles": [
-    "Connect and Protect/Module 2/Real-life DDoS attack.md",
     "Connect and Protect/Module 3/Overview of interception tactics.md",
+    "Connect and Protect/Module 3/Brute force attacks and OS hardening.md",
+    "Connect and Protect/Module 2/Real-life DDoS attack.md",
     "Connect and Protect/Module 3",
     "Connect and Protect/Module 2/Untitled.md",
     "Connect and Protect/Module 2/Read tcpdump logs.md",
@@ -188,7 +189,6 @@
     "manage_security_risk/module_4",
     "manage_security_risk/module_3/More about cybersecurity tools.md",
     "manage_security_risk/module_3/Logs and SIEM tools.md",
-    "manage_security_risk/module_2/4. OWASP.md",
     "manage_security_risk/module_3",
     "manage_security_risk/module_2",
     "manage_security_risk"
