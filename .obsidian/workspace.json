@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools of the Trade Linux and SQL/Virtualization technology.md",
+                "file": "Tools of the Trade Linux and SQL/Linux architecture explained.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools of the Trade Linux and SQL/Virtualization technology.md",
+                "file": "Tools of the Trade Linux and SQL/Linux architecture explained.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools of the Trade Linux and SQL/Virtualization technology.md",
+                "file": "Tools of the Trade Linux and SQL/Linux architecture explained.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools of the Trade Linux and SQL/Virtualization technology.md"
+                "file": "Tools of the Trade Linux and SQL/Linux architecture explained.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "a11f8f006bed4a92",
   "lastOpenFiles": [
-    "Connect and Protect/Module 4/Cryptography and cloud security.md",
     "Tools of the Trade Linux and SQL/Virtualization technology.md",
+    "Tools of the Trade Linux and SQL/Linux architecture explained.md",
+    "Connect and Protect/Module 4/Cryptography and cloud security.md",
     "Tools of the Trade Linux and SQL",
     "Connect and Protect/Module 4/Secure the cloud.md",
     "Connect and Protect/Module 4/Network security applications.md",
@@ -190,7 +191,6 @@
     "Connect and Protect/Module 1",
     "Connect and Protect/Untitled.md",
     "Connect and Protect",
-    "manage_security_risk/module_4/Playbooks, SIEM tools, and SOAR tools.md",
     "manage_security_risk/module_4",
     "manage_security_risk/module_3",
     "manage_security_risk/module_2"
