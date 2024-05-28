@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bff29939dc0bad25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "assets, threats, and vulnerabilities/Module 1/Common classification requirements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 1/Understand risks, threats, and vulnerabilities.md",
+                "file": "assets, threats, and vulnerabilities/Module 1/Common classification requirements.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 1/Understand risks, threats, and vulnerabilities.md",
+                "file": "assets, threats, and vulnerabilities/Module 1/Common classification requirements.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 1/Understand risks, threats, and vulnerabilities.md"
+                "file": "assets, threats, and vulnerabilities/Module 1/Common classification requirements.md"
               }
             }
           }
@@ -146,10 +159,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a11f8f006bed4a92",
+  "active": "bff29939dc0bad25",
   "lastOpenFiles": [
-    "Tools of the Trade Linux and SQL/Operators for filtering dates and numbers - SQL.md",
     "assets, threats, and vulnerabilities/Module 1/Understand risks, threats, and vulnerabilities.md",
+    "assets, threats, and vulnerabilities/Module 1/Common classification requirements.md",
+    "Tools of the Trade Linux and SQL/Operators for filtering dates and numbers - SQL.md",
     "assets, threats, and vulnerabilities/Module 1",
     "assets, threats, and vulnerabilities",
     "Tools of the Trade Linux and SQL/The WHERE clause and basic operators - SQL.md",
@@ -183,7 +197,6 @@
     "Connect and Protect/Module 2/Additional network protocols.md",
     "Screenshot 2024-04-02 at 9.21.41 p.m..png",
     "Connect and Protect/Module 2/Common network protocols.md",
-    "Connect and Protect/Module 1/6 - Components of network layer communication.md",
     "Connect and Protect/Module 2",
     "Screenshot 2024-04-01 at 2.06.26 p.m..png",
     "Screenshot 2024-04-01 at 2.06.06 p.m..png",
