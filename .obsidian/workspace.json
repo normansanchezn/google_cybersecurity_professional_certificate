@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 1/Common classification requirements.md",
+                "file": "assets, threats, and vulnerabilities/Module 1/The emergence of cloud security.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 1/Common classification requirements.md",
+                "file": "assets, threats, and vulnerabilities/Module 1/The emergence of cloud security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 1/Common classification requirements.md",
+                "file": "assets, threats, and vulnerabilities/Module 1/The emergence of cloud security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 1/Common classification requirements.md"
+                "file": "assets, threats, and vulnerabilities/Module 1/The emergence of cloud security.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "bff29939dc0bad25",
   "lastOpenFiles": [
-    "assets, threats, and vulnerabilities/Module 1/Understand risks, threats, and vulnerabilities.md",
     "assets, threats, and vulnerabilities/Module 1/Common classification requirements.md",
+    "assets, threats, and vulnerabilities/Module 1/The emergence of cloud security.md",
+    "assets, threats, and vulnerabilities/Module 1/Understand risks, threats, and vulnerabilities.md",
     "Tools of the Trade Linux and SQL/Operators for filtering dates and numbers - SQL.md",
     "assets, threats, and vulnerabilities/Module 1",
     "assets, threats, and vulnerabilities",
@@ -196,7 +197,6 @@
     "Screenshot 2024-04-03 at 12.42.21 p.m..png",
     "Connect and Protect/Module 2/Additional network protocols.md",
     "Screenshot 2024-04-02 at 9.21.41 p.m..png",
-    "Connect and Protect/Module 2/Common network protocols.md",
     "Connect and Protect/Module 2",
     "Screenshot 2024-04-01 at 2.06.26 p.m..png",
     "Screenshot 2024-04-01 at 2.06.06 p.m..png",
