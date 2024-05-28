@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools of the Trade Linux and SQL/Operators for filtering dates and numbers - SQL.md",
+                "file": "assets, threats, and vulnerabilities/Module 1/Understand risks, threats, and vulnerabilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools of the Trade Linux and SQL/Operators for filtering dates and numbers - SQL.md",
+                "file": "assets, threats, and vulnerabilities/Module 1/Understand risks, threats, and vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools of the Trade Linux and SQL/Operators for filtering dates and numbers - SQL.md",
+                "file": "assets, threats, and vulnerabilities/Module 1/Understand risks, threats, and vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools of the Trade Linux and SQL/Operators for filtering dates and numbers - SQL.md"
+                "file": "assets, threats, and vulnerabilities/Module 1/Understand risks, threats, and vulnerabilities.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "a11f8f006bed4a92",
   "lastOpenFiles": [
-    "Tools of the Trade Linux and SQL/The WHERE clause and basic operators - SQL.md",
     "Tools of the Trade Linux and SQL/Operators for filtering dates and numbers - SQL.md",
+    "assets, threats, and vulnerabilities/Module 1/Understand risks, threats, and vulnerabilities.md",
+    "assets, threats, and vulnerabilities/Module 1",
+    "assets, threats, and vulnerabilities",
+    "Tools of the Trade Linux and SQL/The WHERE clause and basic operators - SQL.md",
     "Tools of the Trade Linux and SQL/Filter content in Linux.md",
     "Tools of the Trade Linux and SQL/Package managers for installing applications.md",
     "Tools of the Trade Linux and SQL/Resources for completing Linux labs.md",
@@ -185,14 +188,11 @@
     "Screenshot 2024-04-01 at 2.06.26 p.m..png",
     "Screenshot 2024-04-01 at 2.06.06 p.m..png",
     "Screenshot 2024-04-01 at 1.20.21 p.m..png",
-    "Connect and Protect/Module 1/5 - The OSI model.md",
     "Screenshot 2024-04-01 at 1.08.21 p.m..png",
     "Screenshot 2024-04-01 at 1.07.22 p.m..png",
     "Screenshot 2024-04-01 at 1.04.44 p.m..png",
     "Connect and Protect/Module 1",
     "Connect and Protect",
-    "manage_security_risk/module_4",
-    "manage_security_risk/module_3",
-    "manage_security_risk/module_2"
+    "manage_security_risk/module_4"
   ]
 }
