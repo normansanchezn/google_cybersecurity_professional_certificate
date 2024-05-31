@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 1/The data lifecycle.md",
+                "file": "assets, threats, and vulnerabilities/Module 2/Symmetric and asymmetric encryption.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 1/The data lifecycle.md",
+                "file": "assets, threats, and vulnerabilities/Module 2/Symmetric and asymmetric encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 1/The data lifecycle.md",
+                "file": "assets, threats, and vulnerabilities/Module 2/Symmetric and asymmetric encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 1/The data lifecycle.md"
+                "file": "assets, threats, and vulnerabilities/Module 2/Symmetric and asymmetric encryption.md"
               }
             }
           }
@@ -161,8 +161,11 @@
   },
   "active": "bff29939dc0bad25",
   "lastOpenFiles": [
+    "assets, threats, and vulnerabilities/Module 2/Information privacy - Regulations and compliance.md",
+    "assets, threats, and vulnerabilities/Module 2/Symmetric and asymmetric encryption.md",
+    "assets, threats, and vulnerabilities/Module 2/The data lifecycle.md",
+    "assets, threats, and vulnerabilities/Module 2",
     "assets, threats, and vulnerabilities/Module 1/Principle of least privilege.md",
-    "assets, threats, and vulnerabilities/Module 1/The data lifecycle.md",
     "assets, threats, and vulnerabilities/Module 1/Security guidelines in action.md",
     "assets, threats, and vulnerabilities/Module 1/The emergence of cloud security.md",
     "assets, threats, and vulnerabilities/Module 1/Common classification requirements.md",
@@ -192,8 +195,6 @@
     "Connect and Protect/Module 2/Read tcpdump logs.md",
     "Connect and Protect/Module 2/How intrusions compromise your system.md",
     "Connect and Protect/Module 2/VPN protocols Wireguard and IPSec.md",
-    "Connect and Protect/Module 2/Virtual Networks and Privacy.md",
-    "Untitled.md",
     "Screenshot 2024-04-03 at 2.06.55 p.m..png",
     "Screenshot 2024-04-03 at 12.42.21 p.m..png",
     "Screenshot 2024-04-02 at 9.21.41 p.m..png",
@@ -205,7 +206,6 @@
     "Screenshot 2024-04-01 at 1.07.22 p.m..png",
     "Screenshot 2024-04-01 at 1.04.44 p.m..png",
     "Connect and Protect/Module 1",
-    "Connect and Protect",
-    "manage_security_risk/module_4"
+    "Connect and Protect"
   ]
 }
