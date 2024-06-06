@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 4/Tácticas de ingeniería social.md",
+                "file": "assets, threats, and vulnerabilities/Module 4/Types of Phishing.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 4/Tácticas de ingeniería social.md",
+                "file": "assets, threats, and vulnerabilities/Module 4/Types of Phishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 4/Tácticas de ingeniería social.md",
+                "file": "assets, threats, and vulnerabilities/Module 4/Types of Phishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets, threats, and vulnerabilities/Module 4/Tácticas de ingeniería social.md"
+                "file": "assets, threats, and vulnerabilities/Module 4/Types of Phishing.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "bff29939dc0bad25",
   "lastOpenFiles": [
-    "assets, threats, and vulnerabilities/Module 2/Symmetric and asymmetric encryption.md",
     "assets, threats, and vulnerabilities/Module 4/Tácticas de ingeniería social.md",
+    "assets, threats, and vulnerabilities/Module 4/Types of Phishing.md",
+    "assets, threats, and vulnerabilities/Module 2/Symmetric and asymmetric encryption.md",
     "assets, threats, and vulnerabilities/Module 4",
     "assets, threats, and vulnerabilities/Module 2/Information privacy - Regulations and compliance.md",
     "assets, threats, and vulnerabilities/Module 2/The data lifecycle.md",
@@ -195,7 +196,6 @@
     "Connect and Protect/Module 3",
     "Connect and Protect/Module 2/Untitled.md",
     "Connect and Protect/Module 2/Read tcpdump logs.md",
-    "Connect and Protect/Module 2/How intrusions compromise your system.md",
     "Screenshot 2024-04-03 at 2.06.55 p.m..png",
     "Screenshot 2024-04-03 at 12.42.21 p.m..png",
     "Screenshot 2024-04-02 at 9.21.41 p.m..png",
